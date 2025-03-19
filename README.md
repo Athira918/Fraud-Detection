@@ -27,3 +27,5 @@ The confusion matrix revealed that the model correctly classified most transacti
 Feature importance analysis showed that TransactionAmount, TransactionType, and CustomerID were the most influential factors in predicting fraud.
 **Conclusion**
 This project successfully implemented a machine learning-based approach to detect fraudulent bank transactions. The Random Forest Classifier performed well in identifying fraud while minimizing false positives. However, fraud detection remains a challenging task due to evolving fraud patterns.
+![Image](https://github.com/user-attachments/assets/2f0ff2e5-bdd8-4d2b-b61e-65001a0b82ae)
+
